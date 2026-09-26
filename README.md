@@ -50,7 +50,7 @@ The following hosted platforms provide developer dashboards, team collaboration 
 
 Open-source frameworks provide transparent, self-hosted, and CI-friendly metrics for evaluating LLMs, RAG systems, and AI agents.
 
-| Repository | Stars ⭐ | License 📄 | Core Focus 🎯 |
+| Repository | GitHub_Stars ⭐ | License 📄 | Core Focus 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[FastChat](https://github.com/lm-sys/FastChat)** | [![FastChat Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers) | Apache-2.0 | Arena-style LLM-as-a-Judge benchmark suites (MT-Bench, Chatbot Arena) |
 | **[Langfuse](https://github.com/langfuse/langfuse)** | [![Langfuse Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers) | MIT | Open LLM engineering platform with traces, datasets, and prompt eval |
@@ -94,7 +94,7 @@ Contributions are welcome! Please follow these steps to add or update an entry:
 1. **Fork** the repository.
 2. Edit `README.md` to add your platform or tool (ensure links are factual and descriptions clear).
 3. If adding a SaaS product, include specific pricing, free tier details, and company backing/funding.
-4. If adding an open-source repo, include the standard star badge linked to the `/stargazers` URL.
+4. If adding an open-source repo, include the standard Stars_Badge linked to the `/stargazers` URL.
 5. Open a **Pull Request** with a brief explanation.
 
 ---
